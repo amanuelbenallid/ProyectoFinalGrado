@@ -1,7 +1,7 @@
-#StackTecnologico
+**StackTecnologico**
 
 
-La app web consta de dos partes: el backend y el frontend.
+MasQuePelis constará de dos partes: el backend y el frontend.
 
 El backend lo desarrollaré usando java con Tomcat y la plataforma Eclipse ya que es un entorno de desarrollo integrado (IDE) en el que se 
 encuentran  todas las herramientas y funciones necesarias para el trabajo, recogidas además en una interfaz que lo hace más fácil de usar, todo esto lo realizaré 
