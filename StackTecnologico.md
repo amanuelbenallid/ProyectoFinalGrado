@@ -1,4 +1,4 @@
-**StackTecnologico**
+**StackTecnológico**
 
 
 MasQuePelis constará de dos partes: el backend y el frontend.
