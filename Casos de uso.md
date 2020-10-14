@@ -9,9 +9,13 @@ CU1-Login
 CU2-Logout
 
 CU3-Administrar Tops
+
 	-Crear top
+	
 	-Borrar top
+	
 	-Eliminar top
+	
 	-Modificar top
 	
 CU4-Seguir otros usuarios 
@@ -23,8 +27,11 @@ CU5-Ver los tops de los usuarios a los que se sigue
 CU6-Acceder a los estrenos 
 
 CU7-Administrar comentarios
+
 	-Crear comentario
+	
 	-Borrar comentario
+	
 	-Leer otros comentarios
 	
 CU8-Administrar likes
@@ -44,6 +51,7 @@ CU13-Poder registrarse como usuario premium
 CU14-Obtener permisos de uso de las películas
 
 CU15-Poder Ver las películas desde la app
+
 
 Casos abordables: CU1,CU2,CU3,CU4,CU5,CU6,CU7,CU8
 
